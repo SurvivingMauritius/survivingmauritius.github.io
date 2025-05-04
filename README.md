@@ -1,4 +1,3 @@
-# survivingmauritius.github.io
 <!doctype html>
 
 <meta charset="utf-8">
